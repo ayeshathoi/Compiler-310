@@ -1,0 +1,245 @@
+Inserted in ScopeTable #1 at position 6,0
+
+New ScopeTable with id 1.1 created
+
+Inserted in ScopeTable #1.1 at position 6,0
+
+New ScopeTable with id 1.1.1 created
+
+Inserted in ScopeTable #1.1.1 at position 6,0
+
+SymbolTable #1.1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < o : o >
+
+SymbolTable #1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < h : h >
+
+SymbolTable #1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < a : a >
+
+
+Found in ScopeTable #1.1.1 at position 6,0
+
+Found in ScopeTable #1 at position 6,0
+
+ScopeTable with id #1.1.1 removed
+
+New ScopeTable with id 1.1.2 created
+
+Inserted in ScopeTable #1.1.2 at position 4,0
+
+ScopeTable with id #1.1.2 removed
+
+New ScopeTable with id 1.1.3 created
+
+Inserted in ScopeTable #1.1.3 at position 0,0
+
+SymbolTable #1.1.3
+0 --> < i : VAR >
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> 
+
+SymbolTable #1.1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < h : h >
+
+SymbolTable #1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < a : a >
+
+
+NOT FOUND
+
+NOT FOUND
+
+ScopeTable with id #1.1.3 removed
+
+ScopeTable with id #1.1 removed
+
+New ScopeTable with id 1.2 created
+
+Inserted in ScopeTable #1.2 at position 4,0
+
+SymbolTable #1.2
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> < 5 : NUMBER >
+5 --> 
+6 --> 
+
+SymbolTable #1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < a : a >
+
+
+NOT FOUND
+j NOT FOUND
+
+NOT FOUND
+i NOT FOUND
+
+SymbolTable #1.2
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> < 5 : NUMBER >
+5 --> 
+6 --> 
+
+SymbolTable #1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < a : a >
+
+
+New ScopeTable with id 1.2.1 created
+
+ScopeTable with id #1.2.1 removed
+
+New ScopeTable with id 1.2.2 created
+
+Inserted in ScopeTable #1.2.2 at position 6,0
+
+Inserted in ScopeTable #1.2.2 at position 1,0
+
+SymbolTable #1.2.2
+0 --> 
+1 --> < == : RELOP >
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < <= : RELOP >
+
+SymbolTable #1.2
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> < 5 : NUMBER >
+5 --> 
+6 --> 
+
+SymbolTable #1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < a : a >
+
+
+<<=,RELOP> already exists in current ScopeTable
+
+Inserted in ScopeTable #1.2.2 at position 4,0
+
+Found in ScopeTable #1.2.2 at position 1,0
+Deleted Entry 1,0 from current ScopeTable
+
+SymbolTable #1.2.2
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> < foo : FUNCTION >
+5 --> 
+6 --> < <= : RELOP >
+
+SymbolTable #1.2
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> < 5 : NUMBER >
+5 --> 
+6 --> 
+
+SymbolTable #1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < a : a >
+
+
+ScopeTable with id #1.2.2 removed
+
+Inserted in ScopeTable #1.2 at position 4,1
+
+Inserted in ScopeTable #1.2 at position 2,0
+
+SymbolTable #1.2
+0 --> 
+1 --> 
+2 --> < k : k >
+3 --> 
+4 --> < 5 : NUMBER >< t : t >
+5 --> 
+6 --> 
+
+SymbolTable #1.2
+0 --> 
+1 --> 
+2 --> < k : k >
+3 --> 
+4 --> < 5 : NUMBER >< t : t >
+5 --> 
+6 --> 
+
+SymbolTable #1
+0 --> 
+1 --> 
+2 --> 
+3 --> 
+4 --> 
+5 --> 
+6 --> < a : a >
+
+
